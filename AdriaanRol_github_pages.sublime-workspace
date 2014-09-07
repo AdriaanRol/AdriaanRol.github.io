@@ -1,0 +1,1245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parag",
+				"paragraph{title}	latex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"selected_items":
+		[
+			[
+				"new vi",
+				"File: New View into File"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"latexin sy",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"lat syn",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"syncron ",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"sol to",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"latexing ",
+				"LaTeXing: Rebuild Cache"
+			],
+			[
+				"latex syn",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"latex sync ",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"lat sync ",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"pack control in",
+				"Package Control: Install Package"
+			],
+			[
+				"sol t",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"keyb ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"stogl",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"pack c in",
+				"Package Control: Install Package"
+			],
+			[
+				"late sync",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"sol",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"pref us",
+				"Preferences: Settings - User"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"late us",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"latex set",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"latexing us",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"remov",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"rem",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latexing reb",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"latexing re",
+				"LaTeXing: Rebuild Cache"
+			],
+			[
+				"latexing chec",
+				"LaTeXing: Check System"
+			],
+			[
+				"latexing doc",
+				"LaTeXing: Documentation"
+			],
+			[
+				"remove ",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"rebui",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"syntax late",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"snippet",
+				"Snippet: Equation"
+			],
+			[
+				"latex sync",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"latx sy",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"sol too",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"solar t",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"latex fold s",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"fold se",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"remove",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"Snippet: tabl",
+				"Snippet: New table"
+			],
+			[
+				"latx clean",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"Snippet: fig",
+				"Snippet: Figure"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"latexing sy",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"pref latex",
+				"Preferences: LaTeXing Settings - Default (Extended)"
+			],
+			[
+				"pref def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Tabular"
+			],
+			[
+				"solar",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"latexing fold en",
+				"LaTeXing: Fold Environment"
+			],
+			[
+				"latexing fold",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"latexing syn",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"latexing",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"pref latex de",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"pref latex ",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"pack contr ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe latex ",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"open ",
+				"LaTeXing: Open"
+			],
+			[
+				"clean",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latexing rem",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latexi cle",
+				"LaTeXing: Clean Temporary Output Dictionary"
+			],
+			[
+				"Snippet: lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"latex op",
+				"LaTeXing: Open"
+			],
+			[
+				"pref lat",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"latexing pref",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latex ",
+				"LaTeXing: Clean Temporary Output Dictionary"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"latex ch",
+				"LaTeXing: Check System"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pakl",
+				"Package Control: List Packages"
+			],
+			[
+				"keyb us",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"solarized",
+				"Preferences: SolarizedToggle Settings – User"
+			],
+			[
+				"inst p",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc list ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"pref br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack list ",
+				"Package Control: List Packages"
+			],
+			[
+				"KEYB US",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"USER ",
+				"Preferences: Settings - User"
+			],
+			[
+				"new vie",
+				"File: New View into File"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"com",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"compar",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"pref user",
+				"Preferences: Settings - User"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"pack cont  en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack con en",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl ",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack control dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack cont dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"todo re",
+				"TodoReview: Project Files"
+			],
+			[
+				"todo rew",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"todor",
+				"TodoReview: Project Files"
+			],
+			[
+				"projc",
+				"Project: Add Folder"
+			],
+			[
+				"projec ",
+				"Project: Refresh Folders"
+			],
+			[
+				"todore",
+				"TodoReview: Project Files"
+			],
+			[
+				"todo ",
+				"TodoReview: Project Files"
+			],
+			[
+				"tododre",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"pack con inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pylint ",
+				"Preferences: SublimeLinter Key Bindings – Default"
+			],
+			[
+				"pack contr list",
+				"Package Control: List Packages"
+			],
+			[
+				"sublim linter ",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublime linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"synt vb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"syntax vbs",
+				"Set Syntax: VBScript"
+			],
+			[
+				"pack inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 261.0,
+		"history":
+		[
+			"self.view.settings().get(\"color_scheme\")",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io"
+	],
+	"file_history":
+	[
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/Gemfile",
+		"/Users/Adriaan/Documents/MasterThesis/Remote.bib",
+		"/Users/Adriaan/Documents/MasterThesis/abstract.tex",
+		"/Users/Adriaan/Documents/MasterThesis/identifying_weakly_coupled_spins.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Fingerprint_data_appendix.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Controlling_weakly_coupled_carbon_spins.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Deterministic_MBE.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Addressable_carbon_sims.tex",
+		"/Users/Adriaan/Documents/MasterThesis/extending_electron_coherence.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Entanglement_wittness.tex",
+		"/Users/Adriaan/Documents/MasterThesis/characterizing_weakly_coupled_spins.tex",
+		"/Users/Adriaan/Documents/MasterThesis/NV-Center_in_diamond.tex",
+		"/Users/Adriaan/Documents/MasterThesis/State_initialization_and_readout.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Introduction.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Outlook_QEC.tex",
+		"/Users/Adriaan/Documents/MasterThesis/preamble.tex",
+		"/Users/Adriaan/Documents/MasterThesis/library.bib",
+		"/Users/Adriaan/Documents/MasterThesis/Bell_state_tomography.tex",
+		"/Users/Adriaan/Documents/MasterThesis/svg.sty",
+		"/Users/Adriaan/Documents/MasterThesis/Addressing_weakly_coupled_carbon_spins.tex",
+		"/Users/Adriaan/Documents/MasterThesis/main.tex",
+		"/Users/Adriaan/Documents/MasterThesis/learn_for_defence/useful_values.tex",
+		"/Users/Adriaan/Documents/MasterThesis/learn_for_defence/question.tex",
+		"/Users/Adriaan/Documents/MasterThesis/bloch_entangling_gate.svg",
+		"/Users/Adriaan/Documents/MasterThesis/Qcircuit.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Output/Thesis_MA_Rol.bbl",
+		"/Users/Adriaan/Documents/MasterThesis/3Month_report.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/cover_file.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Output/Thesis_MA_Rol.aux",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Adriaan/Documents/MasterThesis/Img/bloch_entangling_gate.svg",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/Cover_fig.eps",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/team_diamond_logo-color.svg",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/cover.ai",
+		"/Users/Adriaan/Documents/MasterThesis/question.tex",
+		"/Users/Adriaan/Documents/MasterThesis",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo without colourtrap (~)/logo/TU_P1~full color.eps",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Adriaan/Documents/MasterThesis/Img/FigureDevelopment/coupling_regimes.ai",
+		"/Users/Adriaan/Documents/MasterThesis/acknowledgements.tex",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/Adriaan/Documents/MasterThesis/Electronic_spin_in_diamond.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo with colourtrap (#)/logo met descriptor eronder/TU_d_stack_P2#rgb.eps",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo with colourtrap (#)/logo met descriptor eronder/TU_d_stack_P5#white.eps",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Adriaan/Documents/MasterThesis/erratum.tex",
+		"/Users/Adriaan/Documents/MasterThesis/MasterThesis.sublime-project",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo with colourtrap (#)/logo met descriptor eronder/TU_d_stack_P1#full color.eps",
+		"/Users/Adriaan/Documents/MasterThesis/symbols.tex",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo with colourtrap (#)/logo/TU_P2#rgb.eps",
+		"/Users/Adriaan/Documents/MasterThesis/Output/main.toc",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo with colourtrap (#)/logo met descriptor erachter/TU_d_line_P1#full color.eps",
+		"/Users/Adriaan/Documents/MasterThesis/Cover/EPS/Logo with colourtrap (#)/logo/TU_P4#black.eps",
+		"/Users/Adriaan/Documents/MasterThesis/front.tex",
+		"/Users/Adriaan/Documents/MasterThesis/.gitignore",
+		"/usr/local/texlive/2013/texmf-dist/tex/generic/thumbpdf/thumbpdf.sty",
+		"/Users/Adriaan/Documents/MasterThesis/style.tex",
+		"/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/Solarized Toggle/SolarizedToggle.sublime-settings",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/ToggleTheme.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/lib/measurement2/adwin_ssro/dynamicaldecoupling.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/teleportation/parameters.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/testing/sequence_packing_for_awg5014.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/test_scripts/lde_spinspin_v7-testing-after-pulsing.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/weak_msmts_and_old_SSRO/weak_measurements_sweepTau.py",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/scripts/laser_scan/multiple_scans.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/lib/tools/magnet_tools.py",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_pro_2_lt2/C13_single_lt2.bas",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/test_scripts/lde_spinspin_v8-testing-afterpulsing.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_pro_2_lt2/lt2_teleportation_o.bas",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/deprecated/lde_spinspin_v8.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/teleportation/BSM/BSM_sequences_baks.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/adwin_ssro/lde_protocol_reps_vs_CR_pulsar_MBI.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/tpqi_optimiz0r.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/lib/cython/PQ_T2_tools/T2_tools_src/T2_tools.pyx",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/hardware/Labjack/src/u6.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/hardware/Labjack/src/u3.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/teleportation/testing/T2_tools_files/T2_tools.pyx",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/DiamondMeasurement.sublime-project",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_gold_2_lt1/lt1_teleportation_control.bas",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/teleportation/HH/T2_tools_files/T2_tools.pyx",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/QEC/dynamical_decoupling_script.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/calib/DT-670.txt",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt1_scripts/setup/msmt_params.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/bell/old/parameters_bak.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/bell/params_lt1.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/bell/params.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/ParallaxServoController.py",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/scripts/QEC_data_analysis/meas_B_loop_analysis.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/deprecated/ssro_measurement_preselect.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/examples/measurement1_example.py",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/scripts/mbi/mbi_electron_decoupling_analysis.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_gold_2_lt1/init_data.bas",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/ADwin_linescanner.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/ADwin_Gold_II.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/adwin.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/ADwin_counter.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt1_scripts/testing/test_adwin_awg_communication.bas",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_pro_2_lt2/cr_backup.inc",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_gold_2_lt1/cr_green_boosta.inc",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt2_scripts/test_scripts/awg_djump_table.py",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Adriaan/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/lib/measurement2/adwin_ssro/pulsar_mbi_espin.py",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/scripts/QEC/MC_Simulations_Adriaan/Mast_C_addressability_Sim.py",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/scripts/matplotlibrc",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/lib/qec/hyperfine_params.py",
+		"/Users/Adriaan/Documents/teamdiamond/analysis/lib/qec/nuclear_spin_characterisation.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/lib/pulsar/example_sequence_qtlab.py",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/measurement dll/pq_tttr/lib/i386-win32/libimppq_tttr_functions.a",
+		"/Users/Adriaan/Documents/teamdiamond/measurement/LICENSE"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rist",
+			"identif",
+			"tocbib",
+			"hensen",
+			"Riste",
+			"Ristè",
+			"Maria",
+			"Adam",
+			"DD",
+			"_\\mathr",
+			"_\\",
+			"_\\math",
+			"_",
+			"{T}",
+			"T",
+			"dashedGate",
+			"DD",
+			"lowered ",
+			"NV",
+			"nv",
+			"_{C",
+			"qubit",
+			"{",
+			"\\lstick{\\ket",
+			"\\\\",
+			"&\\g",
+			"ghost",
+			"t{",
+			"\\\\",
+			"[",
+			"qw",
+			" & ",
+			"target",
+			"\\targ",
+			"\\citep{Taminiau2012",
+			"\\citep{Tamin",
+			"\\citep{",
+			"&",
+			"combin",
+			"causing their",
+			"the fideli",
+			"samples",
+			"\\footno",
+			"\\mu",
+			"\\%",
+			"ty.",
+			"It is in the",
+			"represented by the gray bars.",
+			"basis",
+			"basi",
+			"eigenstate",
+			"Cref",
+			"cref",
+			"Cref",
+			"cref",
+			"sweeped",
+			"95",
+			"15",
+			"5.",
+			"=2pt",
+			".8",
+			"5",
+			"1.9",
+			"2.1",
+			"2.3",
+			"-F(\\",
+			"(",
+			"xcolor",
+			"}\n",
+			"tikz",
+			"cref",
+			"Y",
+			"must be",
+			"subfigure",
+			"textbf",
+			"state",
+			"nuclear",
+			"conditionalizing",
+			"eq:dens",
+			"Cref",
+			"\\mathrm{ms",
+			"\\mat",
+			"\\m",
+			"Cref",
+			"\\tfrac",
+			"bloch",
+			"test",
+			"Cref",
+			"n_",
+			"emph",
+			"{n}_",
+			"fingerprint",
+			"E'",
+			"ical-dec",
+			"excites ",
+			"a_",
+			"A_{",
+			"twice",
+			"hyperfine term",
+			"the hyperfine term ",
+			"bm",
+			"Adapted",
+			"Figure",
+			"Cref",
+			"figure",
+			"control over ",
+			"begin{table}",
+			"quad",
+			"T_{\\mathrm{max}}",
+			"for",
+			"T_2^*",
+			"ms",
+			"7ms",
+			"mu",
+			"\\caption",
+			"\\tex",
+			"5.",
+			"05",
+			"tikz",
+			"tikz ",
+			"Psi",
+			"rm",
+			"mp",
+			"that det",
+			"taht determine",
+			"parity",
+			"psi",
+			"rangle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"swept",
+			"conditioning"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AdriaanRol_github_pages.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bib",
+				"Remote.bib"
+			],
+			[
+				"main",
+				"main.tex"
+			],
+			[
+				"prea",
+				"preamble.tex"
+			],
+			[
+				"app",
+				"Fingerprint_data_appendix.tex"
+			],
+			[
+				"add",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"contr",
+				"Controlling_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"char",
+				"characterizing_weakly_coupled_spins.tex"
+			],
+			[
+				"iden",
+				"identifying_weakly_coupled_spins.tex"
+			],
+			[
+				"nv",
+				"NV-Center_in_diamond.tex"
+			],
+			[
+				"intr",
+				"Introduction.tex"
+			],
+			[
+				".bib",
+				"Remote.bib"
+			],
+			[
+				"pre",
+				"preamble.tex"
+			],
+			[
+				"out",
+				"Outlook_QEC.tex"
+			],
+			[
+				"con",
+				"Controlling_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"learnva",
+				"learn_for_defence/useful_values.tex"
+			],
+			[
+				"ide",
+				"identifying_weakly_coupled_spins.tex"
+			],
+			[
+				"ext",
+				"extending_electron_coherence.tex"
+			],
+			[
+				"cover",
+				"Cover/cover_file.tex"
+			],
+			[
+				"abs",
+				"abstract.tex"
+			],
+			[
+				"outl",
+				"Outlook_QEC.tex"
+			],
+			[
+				"qci",
+				"Qcircuit.tex"
+			],
+			[
+				"contro",
+				"Controlling_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"address",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"intro",
+				"Introduction.tex"
+			],
+			[
+				"id",
+				"identifying_weakly_coupled_spins.tex"
+			],
+			[
+				"append",
+				"Fingerprint_data_appendix.tex"
+			],
+			[
+				"addres",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"pream",
+				"preamble.tex"
+			],
+			[
+				"preab",
+				"preamble.tex"
+			],
+			[
+				"ni",
+				"NV-Center_in_diamond.tex"
+			],
+			[
+				"ab",
+				"abstract.tex"
+			],
+			[
+				"3mon",
+				"3Month_report.tex"
+			],
+			[
+				"pr",
+				"preamble.tex"
+			],
+			[
+				"introd",
+				"Introduction.tex"
+			],
+			[
+				"control",
+				"Controlling_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"q",
+				"Qcircuit.tex"
+			],
+			[
+				"fingerp",
+				"Fingerprint_data_appendix.tex"
+			],
+			[
+				"abst",
+				"abstract.tex"
+			],
+			[
+				"us",
+				"learn_for_defence/useful_values.tex"
+			],
+			[
+				"identi",
+				"identifying_weakly_coupled_spins.tex"
+			],
+			[
+				"addressi",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"que",
+				"learn_for_defence/question.tex"
+			],
+			[
+				"use",
+				"learn_for_defence/useful_values.tex"
+			],
+			[
+				"elec",
+				"extending_electron_coherence.tex"
+			],
+			[
+				"e",
+				"Electronic_spin_in_diamond.tex"
+			],
+			[
+				"addressing",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"adressing",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"apend",
+				"Fingerprint_data_appendix.tex"
+			],
+			[
+				"question",
+				"learn_for_defence/question.tex"
+			],
+			[
+				"ini",
+				"State_initialization_and_readout.tex"
+			],
+			[
+				"state",
+				"State_initialization_and_readout.tex"
+			],
+			[
+				"addressin",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"cov",
+				"Cover/cover_file.tex"
+			],
+			[
+				"ad",
+				"Addressable_carbon_sims.tex"
+			],
+			[
+				"covertex",
+				"Cover/cover_file.tex"
+			],
+			[
+				"adres",
+				"Addressing_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"ques",
+				"question.tex"
+			],
+			[
+				"appendi",
+				"Fingerprint_data_appendix.tex"
+			],
+			[
+				"qu",
+				"question.tex"
+			],
+			[
+				"ackn",
+				"acknowledgements.tex"
+			],
+			[
+				"electr",
+				"Electronic_spin_in_diamond.tex"
+			],
+			[
+				"preamb",
+				"preamble.tex"
+			],
+			[
+				"sty",
+				"svg.sty"
+			],
+			[
+				"latexing",
+				"~/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings"
+			],
+			[
+				"deter",
+				"Deterministic_MBE.tex"
+			],
+			[
+				"ele",
+				"Electronic_spin_in_diamond.tex"
+			],
+			[
+				"spin",
+				"Electronic_spin_in_diamond.tex"
+			],
+			[
+				"carbon",
+				"Controlling_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"entan",
+				"Entanglement_wittness.tex"
+			],
+			[
+				"ac",
+				"acknowledgements.tex"
+			],
+			[
+				"det",
+				"Deterministic_MBE.tex"
+			],
+			[
+				"weak",
+				"Controlling_weakly_coupled_carbon_spins.tex"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"",
+				"main.tex"
+			],
+			[
+				"mstparams",
+				"measurement/scripts/lt2_scripts/setup/msmt_params.py"
+			],
+			[
+				"todo",
+				"TodoReview"
+			],
+			[
+				"dyndec",
+				"measurement/lib/measurement2/adwin_ssro/dynamicaldecoupling.py"
+			],
+			[
+				"measparam",
+				"measurement/scripts/lt2_scripts/setup/msmt_params.py"
+			],
+			[
+				"magnet",
+				"measurement/lib/tools/magnet_tools.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

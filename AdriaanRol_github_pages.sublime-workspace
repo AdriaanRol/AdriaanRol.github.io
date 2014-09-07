@@ -11,6 +11,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -553,7 +569,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io"
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/.sass-cache",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/.sass-cache/aae4f8ded852ec76717e55f39117a3cb8a2f1549",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_includes",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_layouts",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_posts",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/css"
 	],
 	"file_history":
 	[
@@ -839,8 +861,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/post.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1236,7 +1315,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 206.0,
 	"status_bar_visible": true,
 	"template_settings":

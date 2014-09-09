@@ -20,6 +20,14 @@
 			}
 		},
 		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "_layouts/post.html",
 			"settings":
 			{
@@ -570,9 +578,6 @@
 	"expanded_folders":
 	[
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io",
-		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/.sass-cache",
-		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/.sass-cache/aae4f8ded852ec76717e55f39117a3cb8a2f1549",
-		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_includes",
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_layouts",
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_posts",
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/css"
@@ -861,7 +866,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -877,8 +882,8 @@
 						"selection":
 						[
 							[
-								40,
-								40
+								70,
+								70
 							]
 						],
 						"settings":
@@ -889,11 +894,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "_layouts/post.html",
 					"semi_transient": true,
 					"settings":
@@ -905,8 +938,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								373,
+								373
 							]
 						],
 						"settings":

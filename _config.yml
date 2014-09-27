@@ -2,7 +2,7 @@
 title: Adriaan's Website
 email: adriaan.rol@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Description coming.
+    Description coming.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://adriaanrol.github.io/"# the base hostname & protocol for your site
 # twitter_username: jekyllrb

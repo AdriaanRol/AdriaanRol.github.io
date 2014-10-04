@@ -15,15 +15,15 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 309,
+				"buffer_size": 375,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/header.html",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 1108,
+				"buffer_size": 386,
 				"line_ending": "Unix"
 			}
 		},
@@ -756,6 +756,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"p",
 			"&nbsp;&nbsp;&nbsp;&nbsp;",
 			"line",
 			"rist",
@@ -882,8 +883,7 @@
 			"rm",
 			"mp",
 			"that det",
-			"taht determine",
-			"parity"
+			"taht determine"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -903,7 +903,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -912,45 +912,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 309,
+						"buffer_size": 375,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								233,
-								233
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/header.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1108,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								222,
+								222
 							]
 						],
 						"settings":
@@ -964,6 +934,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				},
 				{

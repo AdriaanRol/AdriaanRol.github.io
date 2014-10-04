@@ -2,7 +2,7 @@
 layout: post
 title:  "Bevrijd van Zekerheid"
 date:   2014-04-26 12:45:00
-categories: writing
+categories: Creative_n_Humanities
 ---
 "Vera! Waarom?!? Ik begrijp het niet. Waarom moet je weg? Ik heb een plan, zekerheid. We worden rijk, gelukkig."  
 "Nee! Je begrijpt me niet, dit ben jij niet. Waar is mijn man? Waar is zijn visie?  Ik wil een man die gelooft, die tegengas geeft, die ik kan respecteren."

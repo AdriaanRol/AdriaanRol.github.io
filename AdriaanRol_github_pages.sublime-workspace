@@ -20,14 +20,6 @@
 			}
 		},
 		{
-			"file": "_posts/2014-10-15-Tolstoy-War_and_peace",
-			"settings":
-			{
-				"buffer_size": 526,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_posts/2014-10-04-Post-meta-data.md",
 			"settings":
 			{
@@ -39,9 +31,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 93.0,
+		"height": 269.0,
 		"selected_items":
 		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap ",
+				"Word Wrap: Toggle"
+			],
 			[
 				"sol to",
 				"SolarizedToggle: Toggle"
@@ -204,10 +204,6 @@
 			],
 			[
 				"wr",
-				"Word Wrap: Toggle"
-			],
-			[
-				"wrap ",
 				"Word Wrap: Toggle"
 			],
 			[
@@ -549,13 +545,9 @@
 			[
 				"synt vb",
 				"Set Syntax: VBScript"
-			],
-			[
-				"syntax vbs",
-				"Set Syntax: VBScript"
 			]
 		],
-		"width": 453.0
+		"width": 561.0
 	},
 	"console":
 	{
@@ -587,6 +579,8 @@
 	],
 	"file_history":
 	[
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_posts/2014-10-15-Tolstoy-War_and_peace",
+		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_posts/2014-10-23-Scientific-documentation.md",
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_sass/_layout.scss",
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/_includes/months.html",
 		"/Users/Adriaan/Documents/Website/AdriaanRol.github.io/css/main.scss",
@@ -712,9 +706,7 @@
 		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/ADwin_Gold_II.py",
 		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/adwin.py",
 		"/Users/Adriaan/Documents/teamdiamond/measurement/instruments/ADwin_counter.py",
-		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt1_scripts/testing/test_adwin_awg_communication.bas",
-		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_pro_2_lt2/cr_backup.inc",
-		"/Users/Adriaan/Documents/teamdiamond/measurement/ADwin_Codes/adwin_gold_2_lt1/cr_green_boosta.inc"
+		"/Users/Adriaan/Documents/teamdiamond/measurement/scripts/lt1_scripts/testing/test_adwin_awg_communication.bas"
 	],
 	"find":
 	{
@@ -880,7 +872,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -910,40 +902,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2014-10-15-Tolstoy-War_and_peace",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 526,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								526,
-								526
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "_posts/2014-10-04-Post-meta-data.md",
 					"semi_transient": true,
 					"settings":
@@ -955,8 +918,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								944,
+								923
 							]
 						],
 						"settings":
